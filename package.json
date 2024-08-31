@@ -1,0 +1,12 @@
+{
+  "name": "com.kofigames.apirequests",
+  "version": "1.0.0",
+  "displayName": "APIRequests",
+  "unity": "2022.3",
+  "description": "This package contains support for basic api calls",
+  "author": {
+    "name": "Filip Krcmarevic",
+    "email": "filipkrcmarevic555@gmail.com",
+    "url": "https://www.linkedin.com/in/filipkrcmarevic00/"
+  }
+}
